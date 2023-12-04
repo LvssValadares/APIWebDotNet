@@ -1,0 +1,10 @@
+@API_WEB_CRUD_HostAddress = https://localhost:7275
+
+GET {{API_WEB_CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{API_WEB_CRUD_HostAddress}}/weatherforecast
+
+###
